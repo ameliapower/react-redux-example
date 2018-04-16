@@ -1,0 +1,9 @@
+{"view" : {
+    "columns": [
+        { "id" : 123, 
+          "title": "product_id", 
+          "# onOrder": "number_ordered",
+          "# inStock": "number_in_stock"
+      }
+    ]
+} }

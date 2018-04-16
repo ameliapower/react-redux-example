@@ -1,0 +1,110 @@
+{
+    "CO": [
+    {
+    "product_id": 0,
+    "number_ordered": 12,
+    "number_in_stock": 178,
+    "prod_release_date": "10/12/2018",
+    "product-name": "MEN'S BETTER THAN NAKED&trade; JACKET",
+    "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png",
+    "header-top-right-text": "Shop All",
+    "header-top-left-text": "Men's",
+    "product-url": "http://www.thenorthface.com/catalog/sc-gear/men-39-s-better-than-naked-8482-jacket.html",
+    "header-top-right-url": "http://www.thenorthface.com/en_US/shop-mens/",
+    "product-cta-text": "Shop Now"
+    },
+    {
+    "product_id": 1,
+    "number_ordered": 5,
+    "number_in_stock": 299,
+    "prod_release_date": "08/21/2017",
+    "product-name": "WOMEN'S BETTER THAN NAKED&trade; JACKET",
+    "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png",
+    "header-top-right-text": "Shop All",
+    "header-top-left-text": "Women's",
+    "product-url": "http://www.thenorthface.com/catalog/sc-gear/women-39-s-better-than-naked-8482-jacket.html",
+    "header-top-right-url": "http://www.thenorthface.com/en_US/shop-womens/",
+    "product-cta-text": "Shop Now"
+    },
+    {
+    "product_id": 2,
+    "number_ordered": 10,
+    "number_in_stock": 200,
+    "prod_release_date": "06/11/2017",
+    "product-name": "WOMEN'S SINGLE-TRACK SHOE",
+    "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png",
+    "header-top-right-text": "Shop All",
+    "header-top-left-text": "Running Shoes",
+    "product-url": "http://www.thenorthface.com/catalog/sc-gear/womens-single-track.html",
+    "header-top-right-url": "http://www.thenorthface.com/webapp/wcs/stores/servlet/TNFSearchResult?langId=-1&amp;storeId=207&amp;catalogId=10201&amp;searchTerm=running%20shoes",
+    "product-cta-text": "Shop Now"
+    },
+    {
+    "product_id": 3,
+    "number_ordered": 2,
+    "number_in_stock": 81,
+    "prod_release_date": "03/06/2018",
+    "product-name": "Enduro Boa&reg; Hydration Pack",
+    "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png",
+    "header-top-right-text": "Shop All",
+    "header-top-left-text": "Equipment",
+    "product-url": "http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+    "header-top-right-url": "http://www.thenorthface.com/en_US/shop-equipment/",
+    "product-cta-text": "Shop Now"
+    }
+    ],
+    "WI": [
+    {
+    "product_id": 4,
+    "number_ordered": 22,
+    "number_in_stock": 188,
+    "prod_release_date": "11/19/2017",
+    "product-name": "MEN'S BETTER THAN NAKED&trade; JACKET",
+    "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png",
+    "header-top-right-text": "Shop All",
+    "header-top-left-text": "Men's",
+    "product-url": "http://www.thenorthface.com/catalog/sc-gear/men-39-s-better-than-naked-8482-jacket.html",
+    "header-top-right-url": "http://www.thenorthface.com/en_US/shop-mens/",
+    "product-cta-text": "Shop Now"
+    },
+    {
+    "product_id": 5,
+    "number_ordered": 2,
+    "number_in_stock": 1002,
+    "prod_release_date": "01/15/2018",
+    "product-name": "WOMEN'S BETTER THAN NAKED&trade; JACKET",
+    "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png",
+    "header-top-right-text": "Shop All",
+    "header-top-left-text": "Women's",
+    "product-url": "http://www.thenorthface.com/catalog/sc-gear/women-39-s-better-than-naked-8482-jacket.html",
+    "header-top-right-url": "http://www.thenorthface.com/en_US/shop-womens/",
+    "product-cta-text": "Shop Now"
+    },
+    {
+    "product_id": 6,
+    "number_ordered": 29,
+    "number_in_stock": 5,
+    "prod_release_date": "02/11/2018",
+    "product-name": "WOMEN'S SINGLE-TRACK SHOE",
+    "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png",
+    "header-top-right-text": "Shop All",
+    "header-top-left-text": "Running Shoes",
+    "product-url": "http://www.thenorthface.com/catalog/sc-gear/womens-single-track.html",
+    "header-top-right-url": "http://www.thenorthface.com/webapp/wcs/stores/servlet/TNFSearchResult?langId=-1&amp;storeId=207&amp;catalogId=10201&amp;searchTerm=running%20shoes",
+    "product-cta-text": "Shop Now"
+    },
+    {
+    "product_id": 7,
+    "number_ordered": 19,
+    "number_in_stock": 12,
+    "prod_release_date": "02/24/2018",
+    "product-name": "Enduro Boa&reg; Hydration Pack",
+    "product-image-url": "http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png",
+    "header-top-right-text": "Shop All",
+    "header-top-left-text": "Equipment",
+    "product-url": "http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+    "header-top-right-url": "http://www.thenorthface.com/en_US/shop-equipment/",
+    "product-cta-text": "Shop Now"
+    }
+ ]
+}
